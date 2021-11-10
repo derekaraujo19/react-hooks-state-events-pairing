@@ -10,3 +10,10 @@ body {
 .App {
   text-align: center;
 }
+
+.row {
+  display:flex;
+  flex-direction:row;
+  /* width: auto;
+  margin: auto; */
+}
